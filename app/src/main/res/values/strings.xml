@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">YOUB Workforce Manager</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="workers">Workers</string>
+    <string name="attendance">Attendance</string>
+    <string name="payroll">Payroll</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="total_workers">Total Workers</string>
+    <string name="active_sites">Active Sites</string>
+    <string name="pending_payments">Pending Payments</string>
+    <string name="today_attendance">Today\'s Attendance</string>
+    <string name="add_worker">Add Worker</string>
+    <string name="search">Search...</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="navigation">Navigation</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="overtime">Overtime</string>
+    <string name="absence">Absence</string>
+</resources>
