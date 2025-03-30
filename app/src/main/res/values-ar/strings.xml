@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">مدير قوة العمل يوب</string>
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="workers">العمال</string>
+    <string name="attendance">الحضور</string>
+    <string name="payroll">كشف الرواتب</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="total_workers">إجمالي العمال</string>
+    <string name="active_sites">مواقع نشطة</string>
+    <string name="pending_payments">مدفوعات معلقة</string>
+    <string name="today_attendance">حضور اليوم</string>
+    <string name="add_worker">إضافة عامل</string>
+    <string name="search">بحث...</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="remember_me">تذكرني</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="welcome_back">مرحباً بعودتك!</string>
+    <string name="navigation">تنقل</string>
+    <string name="recent_activity">النشاط الأخير</string>
+    <string name="check_in">حضور</string>
+    <string name="check_out">انصراف</string>
+    <string name="overtime">وقت إضافي</string>
+    <string name="absence">غياب</string>
+</resources>
